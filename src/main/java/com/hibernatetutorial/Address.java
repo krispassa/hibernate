@@ -1,7 +1,7 @@
 package com.hibernatetutorial;
 
 import javax.persistence.Embeddable;
-
+//will work later on
 @Embeddable
 public class Address {
 	
